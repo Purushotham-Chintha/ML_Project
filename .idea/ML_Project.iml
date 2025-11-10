@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/mlproject.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/src/components/logs/11_10_2025_15_52_29.log" />
+      <excludeFolder url="file://$MODULE_DIR$/src/components/logs/11_10_2025_15_56_06.log" />
+      <excludeFolder url="file://$MODULE_DIR$/src/components/logs/11_10_2025_16_01_35.log" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (ML_Project)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
